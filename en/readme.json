@@ -17,7 +17,7 @@
     "features.configuration._": "Configuration Menu",
     "features.configuration.description": "Type `Background: Configuration` in the command pallette or press the **Background** tab in the statusbar to access the configuration menu.",
     "features.path._": "Glob, URL, and Environment Variable Support",
-    "features.path.description": "Add background images by file, folder, [glob](https://github.com/isaacs/node-glob#glob-primer), or URL.\n> **⚠️ Use only **`/`** for directories\n>\n> node-glob only accepts `/` as path separators, `\\` is reserved for escape characters.",
+    "features.path.description": "Add background images by file, folder, [glob](https://github.com/isaacs/node-glob#glob-primer), or URL.\n> ⚠️ **Use only `/` for directories**\n>\n> [node-glob](https://github.com/isaacs/node-glob#windows) only accepts `/` as path separators, `\\` is reserved for escape characters.",
     "commands._": "Commands",
     "commands.table_command": "Command",
     "commands.table_description": "Description",
