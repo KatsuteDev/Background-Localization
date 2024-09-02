@@ -10,6 +10,6 @@
 
 For localization issues, open a [localization ticket](https://github.com/KatsuteDev/Background/issues/new?template=localization.yml).
 
-Please follow the template when submitting a translation [pull request](https://github.com/KatsuteDev/Background/pulls).
+Please follow the template when submitting a translation [pull request](https://github.com/KatsuteDev/Background-Localization/pulls).
 
 Updates from online translators are not accepted, they lack context and are often incorrect, please only submit a PR if you are fluent in said language.
