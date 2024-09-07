@@ -6,7 +6,7 @@ const translations = JSON.parse(fs.readFileSync(path.join(__dirname, "en", "tran
 
 let error = false;
 
-const wildcard = (str) => ((str ?? "").match(/{[a-zA-Z0-9]+}/g) ?? []).length;
+const wildcard = (str) => ((str ?? "").match(/{\d+}/g) ?? []).length;
 
 for(const folder of fs.readdirSync(__dirname).filter(f => !f.includes('.') && f !== "en")){
     /* readme */ {
