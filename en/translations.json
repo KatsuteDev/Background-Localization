@@ -6,7 +6,7 @@
     "contributes.command.reload": "Reload",
     "contributes.command.configuration": "Configuration",
     "contributes.command.changelog": "Changelog",
-    "contributes.command.Help": "Help",
+    "contributes.command.help": "Help",
     "contributes.configuration.windowBackgrounds": "The list of files, globs, or URLs to pull background images from.\n\n* Use only `/` for directories, `\\` is reserved for escape characters.\n\n* Image URLs must be served over HTTPS.",
     "contributes.configuration.editorBackgrounds": "The list of files, globs, or URLs to pull background images from.\n\n* Use only `/` for directories, `\\` is reserved for escape characters.\n\n* Image URLs must be served over HTTPS.",
     "contributes.configuration.sidebarBackgrounds": "The list of files, globs, or URLs to pull background images from.\n\n* Use only `/` for directories, `\\` is reserved for escape characters.\n\n* Image URLs must be served over HTTPS.",
